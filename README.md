@@ -35,8 +35,7 @@ I work across the **React + Flask** stack to enhance our size recommendation pla
 
 ### 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/abdellah-essordo/)
-- [Portfolio / Blog (coming soon)]()
-- [Email](mailto:youremail@example.com)
+- [Email](mailto:abdoessordo01@gmail.com)
 
 ---
 
