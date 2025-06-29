@@ -1,28 +1,43 @@
 # Hi, I'm Abdellah Essordo 👋
 
-I'm a full stack software engineer with a focus on building robust web and mobile applications. From startups to solo projects, I thrive at the intersection of **product thinking**, **system design**, and **clean code**.
+I'm a full stack software engineer working at the intersection of product, performance, and infrastructure. I love building web and mobile applications that solve real-world problems — fast, clean, and scalable.
 
-### 🚀 Tech Stack
-- **Languages**: TypeScript, JavaScript, Python, Java
+### 💼 Currently at [Fitle](https://fitle.com)
+
+At **Fitle**, I contribute to the best sizing recommendation tool on the market — used by over 250 e-commerce brands.  
+Our solution boosts **conversion rates by 8%**, reduces **returns by 15%**, and delivers **11× ROI** to our partners.
+
+I work across the **React + Flask** stack to enhance our size recommendation platform, improving reliability, DX, and UI/UX consistency.
+
+---
+
+### 🧰 Tech Stack
+- **Languages**: TypeScript, Python, Java, JavaScript
 - **Frontend**: React, React Native (Expo), Angular
 - **Backend**: Flask, FastAPI, Spring Boot, Express.js
 - **DevOps**: Docker, Kubernetes, Terraform
 - **Databases**: PostgreSQL, MongoDB, MySQL
 
-### 🔧 What I'm Working On
-- 🥘 **Cooky** — a platform for home-based chefs to sell meals locally. Built with React Native (Expo), Flask API, and a Next.js admin dashboard.
-- 🔎 **Real Estate SaaS MVP** — comparison tool for buyers and small investors (LMNP) to analyze deals smartly.
+---
 
-### 🎯 Currently
-- Improving performance and DX in a production-grade **React + Flask** stack.
-- Validating MVP ideas through waitlists and no-code tools before writing code.
-- Always experimenting — whether it's on deployment flows or UI/UX polish.
+### 🧪 Side Projects & Experiments
+- 🥘 **Cooky** — A mobile app that lets home-based chefs sell meals locally. React Native + Flask backend + Next.js admin dashboard.
+- 📊 **Real Estate Deal Tool** — SaaS MVP to help small investors (e.g., LMNPs) compare and analyze real estate deals, including vacancy and utility estimates.
 
-### 📫 Let's connect
+---
+
+### 🎯 Focus Areas
+- Building production-ready UIs and APIs using modern full-stack tools  
+- Lean MVPs → waitlists → feedback loops before over-engineering  
+- Shipping fast, but thinking long-term: dev workflows, testing, CI/CD, and infra-as-code
+
+---
+
+### 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/abdellah-essordo/)
 - [Portfolio / Blog (coming soon)]()
 - [Email](mailto:youremail@example.com)
 
 ---
 
-💬 If you build things, solve real problems, or obsess over dev workflows, we’ll get along.
+> 💬 Curious about startups, dev tools, marketplaces, and engineering culture. Always open to chat.
